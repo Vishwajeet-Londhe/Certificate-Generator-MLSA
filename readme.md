@@ -13,7 +13,6 @@ both docx and pdf.
 
 ```
 git clone https://github.com/VishwajeetLondhe/Certificate-Generator-MLSA
-cd Certificate-Generator-MLSA
 ```
 Now Copy your Participant List to the Data Folder and rename it as `ParticipantList.csv`. <br>
 <e><i>The list must have the following fields: ```Name, Email```</i></e>. It may have more, but these 2 are essential.
