@@ -12,7 +12,7 @@ both docx and pdf.
 ## Run these commands in your terminal
 
 ```
-git clone https://github.com/Sabyasachi-Seal/Certificate-Generator-MLSA
+git clone https://github.com/VishwajeetLondhe/Certificate-Generator-MLSA
 cd Certificate-Generator-MLSA
 ```
 Now Copy your Participant List to the Data Folder and rename it as `ParticipantList.csv`. <br>
